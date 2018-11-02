@@ -1,1 +1,17 @@
-p { background-color: red; }
+p { color: darkred; }
+
+li { color: pink; }
+
+em { color: red}
+
+.paaotsikko {
+    color: blue;
+  }
+
+.alaotsikko {
+    color: darkred;
+}
+
+
+  
+  
